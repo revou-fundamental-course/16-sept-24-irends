@@ -1,0 +1,9 @@
+my-profile-project/
+├── index.html
+├── profile.html
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── .gitignore
+└── README.md
